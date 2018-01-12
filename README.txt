@@ -6,4 +6,17 @@ The DOCTYPE declaration for HTML5 is very simple:
 
 <!DOCTYPE html>
 
+ HTML5 Example:
 
+ <!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Title of the document</title>
+</head>
+
+<body>
+Content of the document......
+</body>
+
+</html>
