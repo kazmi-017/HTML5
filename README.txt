@@ -16,7 +16,8 @@ The DOCTYPE declaration for HTML5 is very simple:
 </head>
 
 <body>
-Content of the document......
+<p>Here you can add html tags and elements </p>
+
 </body>
 
 </html>
